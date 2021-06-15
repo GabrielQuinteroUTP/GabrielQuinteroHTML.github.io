@@ -1,0 +1,35 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+p {
+font-family: Arial, Verdana, sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
